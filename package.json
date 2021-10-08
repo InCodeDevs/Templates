@@ -1,0 +1,16 @@
+{
+  "name": "@incodelang/templates",
+  "version": "1.0.0",
+  "description": "Server for storing templates",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "InCode",
+    "Template",
+    "Server"
+  ],
+  "author": "Ben Siebert",
+  "license": "GPL-3.0-only"
+}
