@@ -1,6 +1,6 @@
 {
   "name": "@incodelang/templates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Server for storing templates",
   "main": "src/index.js",
   "publishConfig": {
